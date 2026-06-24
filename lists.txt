@@ -1,0 +1,1 @@
+HG Light: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/light.txt
